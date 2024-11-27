@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kipkwalia
 - 👀 I’m interested in Cloud Computing, Databases 
-- 🌱 I’m currently learning Node js, Java, SQL and Python
+- 🌱 I’m currently learning Elasticity Cloud Compute(EC2).
 - 💞️ I’m looking to collaborate on Any item that makes the world a better place.
 - 📫 How to reach me austinkwalia@gmail.com
 - 😄 Pronouns: He/HIM
